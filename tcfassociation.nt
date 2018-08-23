@@ -178,7 +178,7 @@
 <http://tcftest.org/schema/discrepancyDescription> <http://www.w3.org/2000/01/rdf-schema#label> "Discrepancy Description" .
 <http://tcftest.org/schema/discrepancyDescription> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> .
 <http://tcftest.org/schema/Draft> <http://www.w3.org/2000/01/rdf-schema#label> "Draft" .
-<http://tcftest.org/schema/EmptyGood> <http://purl.org/dc/terms/modified> "2018-06-06T20:58:07.672Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcftest.org/schema/EmptyGood> <http://purl.org/dc/terms/modified> "2018-08-23T13:04:09.866Z"^^<http://www.w3.org/2001/XMLSchema#date> .
 <http://tcftest.org/schema/EmptyGood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <http://tcftest.org/schema/EmptyGood> <http://www.w3.org/2000/01/rdf-schema#description> "This is an empty good." .
 <http://tcftest.org/schema/EmptyGood> <http://www.w3.org/2000/01/rdf-schema#label> "Empty Good" .
